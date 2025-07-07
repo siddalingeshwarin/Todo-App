@@ -13,7 +13,7 @@ A basic and user-friendly To-Do List App built using HTML, CSS, and JavaScript.
 
 How to Use:-
 
-)Clone or download the repository
+1)Clone or download the repository
 
 2)Open the index.html file in your browser
 
